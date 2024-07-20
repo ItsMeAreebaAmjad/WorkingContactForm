@@ -18,7 +18,7 @@ Watch the demo video to see the contact form in action: [Demo Video](https://git
 
 Here are some screenshots of the contact form:
 
-![Screenshot 1](https://github.com/your-username/contact-form/blob/main/screenshots/screenshot1.png)
+![Screenshot 1](https://github.com/ItsMeAreebaAmjad/WorkingContactForm/blob/main/1.png)
 ![Screenshot 2](https://github.com/your-username/contact-form/blob/main/screenshots/screenshot2.png)
 
 ## Usage
